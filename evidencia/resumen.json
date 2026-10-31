@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-31",
+  "publication": "NO_PUBLICADO",
+  "evidence": {
+    "status": "PREPARADO_PARA_REVISION_DEL_TITULAR",
+    "notebooks_executed": 2,
+    "clean_processes": true,
+    "dataset_sha256": "270db486c78796143ffa84b4808118b3d4b96d1bd0f70bf22b3bb0bfca21e547",
+    "data_license": "CC-BY-4.0",
+    "selection": "Random Forest por validación en ambas tareas",
+    "limits": [
+      "Una partición externa sobre 300 casos",
+      "No se usan los 68 casos oficiales de test",
+      "Sin utilidad clínica demostrada",
+      "No se verificó descarga nueva; copia local con hash documentado"
+    ]
+  }
+}
